@@ -243,10 +243,11 @@ footer {
 
 @media (max-width: 480px) {
     .container {
+        margin-top: -6vmin;
         scale: 1.55;
         padding-left: 20px;
         padding-right: 20px;
-        height: 75vmin;
+        height: 80vmin;
 
         #amount {
             font-size: 3vmin;
